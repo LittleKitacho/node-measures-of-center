@@ -1,0 +1,26 @@
+{
+  "name": "moct",
+  "version": "1.0.0",
+  "description": "This package gives commands for dealing with number arrays, more specifically, finding the measures of central tendancy (moct).  You are free to use this package however you want.",
+  "main": "moct.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleKitacho/nodejs-moct.git"
+  },
+  "keywords": [
+    "mean",
+    "median",
+    "mode",
+    "range",
+    "moct"
+  ],
+  "author": "LittleKitacho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleKitacho/nodejs-moct/issues"
+  },
+  "homepage": "https://github.com/LittleKitacho/nodejs-moct#readme"
+}
