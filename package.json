@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/LittleKitacho/nodejs-moct/issues"
   },
-  "homepage": "https://github.com/LittleKitacho/nodejs-moct#readme"
+  "homepage": "https://github.com/LittleKitacho/nodejs-moct#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
